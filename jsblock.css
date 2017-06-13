@@ -19,7 +19,7 @@
 .jsblock-console-text {
     display: inline-block;
     word-break: break-all;
-    max-height: 10vh;
+    max-height: 20vh;
     overflow-y: scroll;
 }
 
