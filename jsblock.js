@@ -11,7 +11,7 @@
     // minified (especially when both are regularly referenced in your plugin).
 
     // Create the defaults once
-    var pluginName = "",
+    var pluginName = "jsblock",
         defaults = {
           editable: true,
           consoleText: "Output from the example appears here",
