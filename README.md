@@ -1,6 +1,6 @@
 jsblock
 ============
-Runnable JavaScript code snippets, in your browser. Powered by Ace Editor. 
+Executable JavaScript code snippets, in your browser. Powered by Ace Editor. 
 
 ## Usage
 Say you want to allow users to test out some JavaScript that you've written, and you have some simple HTML that looks like this:
