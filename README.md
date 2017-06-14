@@ -34,6 +34,7 @@ new jsblock(document.getElementById('code'))
 ```
 
 3. Viola!
+![Conversion of regular code to jsblock](https://user-images.githubusercontent.com/5572859/27150130-fc276d26-5113-11e7-874b-f52c87757a63.gif)
 
 ## Acknowledgements:
 This was inspired by [codeblock.js](http://ink.github.io/codeblock.js/)
